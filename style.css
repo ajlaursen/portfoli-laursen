@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    width: 99%;
+    margin-bottom: 20px;
+    color: black;
+    background: teal;
+}
+
